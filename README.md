@@ -1,0 +1,1 @@
+# teste-react-native-web.art
