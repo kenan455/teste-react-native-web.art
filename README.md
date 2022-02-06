@@ -3,7 +3,8 @@
 
 
 <h2>Preview (vídeo sem áudio)</h2>
-<img align="center"  class="img__project " src="./github/reactAppVideo.mp4">
+<img align="center"  class="img__project " src="./github/reactAppVideo.gif">
+
 
 <br>
 
