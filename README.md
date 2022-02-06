@@ -2,8 +2,8 @@
 <h1 align="center" class="line-1 anim-typewriter">Desafio React Native Web.art </h1>
 
 
-<h2>Preview (vídeo sem áudio)</h2>
-<img align="center"  width="300" height="600" class="img__project " src="./github/reactAppVideo.gif">
+<h2>Preview</h2>
+<img alignItems="center"  width="300" height="600" class="img__project " src="./github/reactAppVideo.gif">
 
 
 <br>
