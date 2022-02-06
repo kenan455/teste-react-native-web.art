@@ -4,9 +4,7 @@
 
 <h2>Preview (vídeo sem áudio)</h2>
 
-<video  align="center" controls>
-  src="./github/reactAppVideo.mp4"
-</video>
+<video  align="center" src="./github/reactAppVideo.mp4.ogg" autoplay> </video>
 
 <br>
 
