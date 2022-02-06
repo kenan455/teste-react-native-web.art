@@ -8,7 +8,7 @@
 <br>
 
 
-<h2 id="the_challenge"> 🌋 O desafio</h2>
+<h2 id="the_challenge"> 🌋 O teste</h2>
 
 Esta é a solução do teste proposto pela [Web.art](https://www.webart.com.br/).
 
