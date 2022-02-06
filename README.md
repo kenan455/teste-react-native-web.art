@@ -2,7 +2,7 @@
 <h1 align="center" class="line-1 anim-typewriter">Desafio React Native Web.art </h1>
 
 
-<h2>Preview</h2>
+<h2>Preview (vídeo sem áudio)</h2>
 <img align="center"  class="img__project " src="./github/gif.gif">
 
 <br>
@@ -28,7 +28,7 @@ Requisitos opcionais:
 <h2 id="built_with">👷‍♂️ Ferramentas utilizadas</h2>
 
 -  <img src="https://img.icons8.com/plasticine/20/000000/react.png"/> React Native e React;
--  <img class="icon" height="20" src="https://miro.medium.com/max/1024/1*wPKZnE6XTw-wtH2k-KARPg.png"/> Expo e Expo-av (biblioteca de àudio);
+-  <img class="icon" height="20" src="https://miro.medium.com/max/1024/1*wPKZnE6XTw-wtH2k-KARPg.png"/> Expo e Expo-av (biblioteca de áudio);
 
 
 <h2 id="built_with">📝 Como rodar o projeto localmente?</h2>
