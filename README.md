@@ -1,5 +1,5 @@
 
-<h1 align="center" class="line-1 anim-typewriter">Desafio React Native Web.art </h1>
+<h1 align="center" class="line-1 anim-typewriter">Teste React Native Web.art </h1>
 
 
 <h2>Preview</h2>
