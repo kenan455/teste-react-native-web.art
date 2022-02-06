@@ -3,7 +3,7 @@
 
 
 <h2>Preview</h2>
-<img alignItems="center"  width="300" height="600" class="img__project " src="./github/reactAppVideo.gif">
+<img alignItems="center"  width="280" height="600" class="img__project " src="./github/reactAppVideo.gif">
 
 
 <br>
